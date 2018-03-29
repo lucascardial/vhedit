@@ -9,3 +9,4 @@ for /f "delims== tokens=1,2" %%G in (C:\Users\%USERNAME%\vhedit\.cardial) do (
         )
     )
 )
+exit
