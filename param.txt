@@ -1,3 +1,0 @@
-dir=C:\Users\lucca\Eloss
-dir=C:\Projects
-homestead=C:\Users\lucca\Homestead
