@@ -3,7 +3,7 @@
 <p>*vhedit* provides dynamic support for calls from your projects folder in your preferred code editor.</p>
 
 ## Configuration
-First you need to include the 'vhedit' directory in your environment settings. [See here](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10/#answer-949577)
+First you need download the 'vhedit' in your %UserFolder%: `"C:\Users\%USERNAME%\vhedit"` to include the 'vhedit' directory in your environment settings. [See here](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10/#answer-949577)
 
 ### Homestead
 By default, this is the Homestead folder: `"C:\Users\%USERNAME%\.homestead"` <br>
