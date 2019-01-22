@@ -32,6 +32,3 @@ Now using CMD, I want to open the **vhedit** project in the code editor **of my 
 > > **project:** /vhedit/ <br>
 > > **project:** /laravel/<br>
 > > **project:** /android-project/.<br>
-
-## Inspiration 
-**vhedit** was inspired by the small project *vedit* of my friend Gabriel Lacerda [see](https://github.com/gabriellacerda/vedit), Thank you for inspiring me.
